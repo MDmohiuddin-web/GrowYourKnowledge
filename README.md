@@ -20,7 +20,7 @@
 
 <p align="center">
     <a href="https://app.daily.dev/mdmohiuddin">
-        <img height="50" src="https://chromewebstore.google.com/detail/dailydev-the-homepage-dev/jlmpjdjjbgclbocgajdjefcidcncaied"/>
+        <img height="50" src="https://daily.dev/categories/daily-dev"/>
     </a>
     <a href="https://www.linkedin.com/in/mohammedmohiuddin/">
         <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
