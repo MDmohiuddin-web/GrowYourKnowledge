@@ -15,7 +15,7 @@
 
 - Add your own details to the contributor list
 - Make a Pull Request
-- [Steps to add yourself to the contributers list]
+- [Steps to add yourself to the contributers list](https://github.com/MDmohiuddin-web/GrowYourKnowledge/blob/main/CONTRIBUTING.md)
 
 
 <p align="center">

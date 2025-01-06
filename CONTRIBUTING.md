@@ -38,7 +38,7 @@ html look like this :
 
 bash
 git add .
-git commit -m "<your name> 🍉"
+git commit -m "<your name>🌟"
 git push origin master
 8: Open a Pull Request: Sync your fork, then open a pull request with a comment like "Adding my name to the contributor list".
 
