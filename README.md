@@ -1,4 +1,4 @@
-# Welcome to Open Source Contributions 🌟
+# Welcome to Open Source Contributions project 🌟
 
 <p>🚨 <b>VERY IMPORTANT:</b> If you want your Pull Request to be accepted, follow these steps:
     <li>First, make sure to <b>star the repository</b> on GitHub to show your support.</li>
