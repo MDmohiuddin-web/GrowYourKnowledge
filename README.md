@@ -20,16 +20,14 @@
 
 <p align="center">
     <a href="https://app.daily.dev/mdmohiuddin">
-        <img height="50" src="https://daily.dev/categories/daily-dev"/>
+        <img height="50" src="https://imgs.search.brave.com/rg4TucVQtZBTqyWkHz1nEoaMkEqQXZb1glLuozG9hiM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTIuZGV2LnRvL2R5/bmFtaWMvaW1hZ2Uv/d2lkdGg9ODAwLGhl/aWdodD0sZml0PXNj/YWxlLWRvd24sZ3Jh/dml0eT1hdXRvLGZv/cm1hdD1hdXRvL2h0/dHBzOi8vY2RuLmhh/c2hub2RlLmNvbS9y/ZXMvaGFzaG5vZGUv/aW1hZ2UvdXBsb2Fk/L3YxNjU0NTg1NTU1/NjUzL2I0cGFmU0wx/ai5wbmc"/>
     </a>
     <a href="https://www.linkedin.com/in/mohammedmohiuddin/">
         <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
     </a>
 </p>
   
-<p align="center">
-  <img src= "https://tenor.com/search/programming-humor-gifs">
-</p>
+
 
 ## Contributors 🌟
 
